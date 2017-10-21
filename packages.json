@@ -1,0 +1,10 @@
+{
+  "name": "loopback-connector-cloudantevents",
+  "version": "0.0.1",
+  "description": "An Event Connector for Cloudant",
+  "main": "index.js",
+  "dependencies": {
+    "loopback-connector": "~1.2.0",
+    "cloudant": "^1.4.1"
+  }
+}
